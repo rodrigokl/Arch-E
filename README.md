@@ -8,7 +8,7 @@ Dissertação de Mestrado de Eduardo Mattar Riemke, pelo programa de Pós Gradua
 
 # Contato
 
-Autor do trabalho: [Eduardo Mattar Riemke](dudariemke@gmail.com)
+Autor do trabalho: [Eduardo Mattar Riemke](mailto:dudariemke@gmail.com)
 
-Implementação: [Rodrigo Karini Leitzke](rodrigokarinileitzke@gmail.com)
+Implementação: [Rodrigo Karini Leitzke](mailto:rodrigokarinileitzke@gmail.com)
 
